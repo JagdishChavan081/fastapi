@@ -14,6 +14,14 @@ Data were extracted from images that were taken from genuine and forged banknote
 
 Note:-Dataset can be used for Binary Classification sample problems
 
-<h5>Machine Learning Algorithm</h5>
+<h5>Machine Learning Algorithm:-random forest classifier</h5>
+
+A random forest is a meta estimator that fits a number of decision tree classifiers on various sub-samples of the dataset and uses averaging to improve the predictive accuracy and control over-fitting. 
+
+<h5>OUTPUT</h5>
+since task was to learn, implement and build api with help of fastapi, created and implement api with help of <b>/docs</b> output window is shared as below
+
+<img src="https://github.com/JagdishChavan081/fastapi/blob/master/images/bnp.png" alt="bnp" width="500" height="600">
+
 
 
